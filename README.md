@@ -1,2 +1,2 @@
-# ROS Based A-Star 
-A-Star Path Planning executed on a simulator
+# A-Star ROS  
+A-Star Path Planning executed on a simulator ported through ROS
